@@ -1,0 +1,21 @@
+﻿  Detekcja krawedzi aparatem sobela.cpp
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(77,22): warning C4244: "return": konwersja z "std::streamoff" do "int", możliwa utrata danych
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(92,22): warning C4244: "return": konwersja z "std::streamoff" do "int", możliwa utrata danych
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(101,23): warning C4244: "return": konwersja z "std::streamoff" do "int", możliwa utrata danych
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(116,23): warning C4244: "return": konwersja z "std::streamoff" do "int", możliwa utrata danych
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(121,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(124,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(142,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(145,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(153,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(155,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(166,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(169,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(170,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(222,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(223,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(233,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(236,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(306,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Detekcja krawedzi aparatem sobela.cpp(311,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Detekcja krawedzi aparatem sobela.vcxproj -> D:\POPproj2 - 2\Sobel---detekcja-krawedzi\Detekcja krawedzi aparatem sobela\Debug\Detekcja krawedzi aparatem sobela.exe
